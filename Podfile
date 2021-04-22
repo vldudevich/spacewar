@@ -6,13 +6,6 @@ target 'spaceWar' do
   use_frameworks!
 
   # Pods for spaceWar
-	pod 'RealmSwift'
-	pod 'Firebase/Core'
-	pod 'Firebase/Messaging'
-	pod 'Firebase/RemoteConfig'
-	pod 'Firebase/Auth'
-	pod 'Firebase/Firestore'
-	pod 'Firebase/Crashlytics'
 	pod 'SwifterSwift'
 	pod 'SwiftLint'
 end
