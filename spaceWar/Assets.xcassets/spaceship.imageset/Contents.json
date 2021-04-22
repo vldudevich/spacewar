@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "iconfinder_rocket_science_spaceship_technology_6427886-4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "iconfinder_rocket_science_spaceship_technology_6427886-5.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "iconfinder_rocket_science_spaceship_technology_6427886-6.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
